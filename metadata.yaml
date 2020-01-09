@@ -1,0 +1,5 @@
+homepage: "https://github.com/precariostecnicos/timestamp"
+documentation: "https://github.com/precariostecnicos/timestamp"
+versions:
+  - sha: 4aa43f20604cf02413d79069dedd3b8acc6c8b1f
+    changeNotes: Initial release.
