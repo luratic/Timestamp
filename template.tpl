@@ -28,7 +28,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "LABEL",
     "name": "Documentation",
-    "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://github.com/precariostecnicos/Timestamp\"\u003eDocumentation\u003c/a\u003e\u003c/strong\u003e"
+    "displayName": "\u003cstrong\u003e\u003ca href\u003d\"https://www.luratic.com/posts/templates/variables/timestamp\"\u003eDocumentation\u003c/a\u003e\u003c/strong\u003e"
   }
 ]
 
