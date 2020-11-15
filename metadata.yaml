@@ -2,8 +2,10 @@ homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/variables/timestamp/"
 versions:
   # Latest version
+  - sha: 8c2e414949799e1622d01e5097d8af4797b758af
+    changeNotes: Update api to getTimestampMillis
+  # Older versions
   - sha: fdcea8529a1da81187cfc5afa8f66d375d344690
     changeNotes: Improve and update documentation.
-  # Older versions  
   - sha: 36dd50ffb29d7083e86b55e4ef7c0401e4f07777
     changeNotes: Initial release.
